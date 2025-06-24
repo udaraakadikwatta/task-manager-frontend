@@ -10,7 +10,7 @@ This is the frontend SPA for the Task Manager App built with Vue 3 and Vuetify.
 ## 🚀 Setup Instructions
 
 ```bash
-cd frontend
+cd task-manager-frontend
 
 # Install dependencies
 npm install

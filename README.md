@@ -21,4 +21,4 @@ mv .env.example .env
 # Edit `.env` to configure API base URL or other env variables if needed
 
 # Start development server
-npm run dev
+npm run serve
